@@ -16,6 +16,11 @@ Safety
 
 --- -->
 
+# How to Use
+
+1. Set `.env` with `OPENAI_ORGANIZATION` and `OPENAI_API_KEY`.
+2. Run `node src/chat.js`.
+
 # Example
 
 Input:
