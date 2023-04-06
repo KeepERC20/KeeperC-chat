@@ -1,27 +1,15 @@
-<!-- # Features
+# KeeperC Chat(+Bot)
 
-Wallet Features
-1. Create new wallet
-2. Import private key
-3. Send ETH (MATIC)
+TBD
 
-Special Transactions
-1. Scheduled Transfer
-2. Recoverable Transfer
-3. Expirable Approve
-
-Safety
-1. Warn phishing address in the Denylist
-2. Add/Remove Denylist
-
---- -->
+---
 
 # How to Use
 
 1. Set `.env` with `OPENAI_ORGANIZATION` and `OPENAI_API_KEY`.
 2. Run `node src/chat.js`.
 
-# Example
+# Examples
 
 Input:
 ```
