@@ -1,15 +1,17 @@
 # KeeperC Chat(+Bot)
 
-TBD
+KeeperC Chatbot is a Telegram bot that integrates with the KeeperC decentralized bank-and-wallet system.
 
----
+It allows users to interact with the KeeperC system using natural language and offers helpful features (recommendation) such as Scheduled Transfer, Recoverable Transfer, and Expirable Approve.
 
 # How to Use
 
-1. Set `.env` with `OPENAI_ORGANIZATION` and `OPENAI_API_KEY`.
-2. Run `node src/chat.js`.
+1. Set `.env` with `OPENAI_ORGANIZATION`, `OPENAI_API_KEY`, and `BOT_TOKEN`.
+2. Run `node src/bot.js`.
 
-# Examples
+---
+
+# Chatbot Examples
 
 Input:
 ```
